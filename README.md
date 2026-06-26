@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**lucykolody-blip/lucykolody-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Lucy! I am a rising junior at Whitney Young High School.
 
-Here are some ideas to get you started:
+- 🔭 Computer Science classes I have taken:
+    - AP Computer Science A
+    - Intermediate Comp Sci
+    - AP CSP (Score:5)
+    - Enrolled in 26-27 Schoolyear: Microarchitecture (NAND to Tetris)
+- 💻 Languages I know:
+    - Java (most familiar)
+    - Haskell
+    - Racket
+- Experience
+    - Discovery Partners Institute Summer Intern Electrical Engineering
+    - Employed as a Mathnasium Instructor
+- 👯 I’m looking to collaborate on 
+    - Open source projects in Java with other students!
+- Other hobbies:
+    - I love performing in Shakespeare plays and running cross country
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
