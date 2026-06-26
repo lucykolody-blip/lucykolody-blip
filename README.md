@@ -11,6 +11,7 @@ This is Lucy! I am a rising junior at Whitney Young High School.
     - Java (most familiar)
     - Haskell
     - Racket
+    - Python 
 - Experience
     - Discovery Partners Institute Summer Intern Electrical Engineering
     - Employed as a Mathnasium Instructor
